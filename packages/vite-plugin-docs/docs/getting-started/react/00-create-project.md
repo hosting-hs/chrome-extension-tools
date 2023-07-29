@@ -66,5 +66,11 @@ Your project directory should look like this:
 
 ![RPCE File Structure](./assets/start-initial-files.png)
 
-Next, we'll load the extension in the browser and give the development build a
-test run.
+Next up, In order to load the Extension in your browser, you can head to
+
+[Chrome Extensions](chrome://extensions)
+
+And enable Ðeveloper mode in the top right corner.
+
+Now you can select "Load Unpacked" option and open the `/dist` folder in 
+your project.
